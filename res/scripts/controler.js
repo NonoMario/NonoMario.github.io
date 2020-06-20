@@ -43,6 +43,10 @@ function setupOnClickBehaviour() {
                 $('#reviews').show();
                 $('#nav-reviews').parent().addClass('active');
                 break;
+            case 'nav-documents':
+                $('#documents').show();
+                $('#nav-documents').parent().addClass('active');
+                break;    
             case 'nav-contact':
                 //$('#contact').show();
                 //$('#nav-contact').parent().addClass('active');
@@ -99,6 +103,7 @@ function setupCarousels() {
         setPictures(obj.marin,'marin');
         setPictures(obj.about_piran,'about-piran');
         setPictures(obj.home, "home")
+        //setPictures(obj.documents, "documents")
     });
 }
 
@@ -139,7 +144,8 @@ function setText(model) {
     $('#nav-marin').append(model.navigation.marin);
     $('#nav-about-piran').append(model.navigation.about_piran);
     $('#nav-reviews').append(model.navigation.reviews);
-    $('#nav-contact').append(model.navigation.contact); 
+    $('#nav-documents').append(model.navigation.documents);  
+    $('#nav-contact').append(model.navigation.contact);
 
     // Home
 

@@ -27,81 +27,100 @@
     ],
     "nono_mario": [
         {
-            "dir": "res/nono_mario/nono_mario16.jpg",
-            "alt": "Dnevna soba 1"
+            "dir": "res/nono_mario/mario1.jpg",
+            "alt": "Spalnica 2"
         },
         {
-            "dir": "res/nono_mario/nono_mario17.jpg",
-            "alt": "Dnevna soba 2"
+            "dir": "res/nono_mario/mario2.jpg",
+            "alt": "Spalnica 2"
         },
         {
-            "dir": "res/nono_mario/nono_mario18.jpg",
-            "alt": "Dnevna soba 3"
+            "dir": "res/nono_mario/mario3.jpg",
+            "alt": "Spalnica 2"
         },
         {
-            "dir": "res/nono_mario/nono_mario20.jpg",
-            "alt": "Stranisce 1"
+            "dir": "res/nono_mario/mario4.jpg",
+            "alt": "Spalnica 2"
         },
         {
-            "dir": "res/nono_mario/nono_mario23.jpg",
-            "alt": "Stranisce 2"
+            "dir": "res/nono_mario/mario5.jpg",
+            "alt": "Spalnica 2"
         },
         {
-            "dir": "res/nono_mario/nono_mario24.jpg",
-            "alt": "Dnevna soba 4"
+            "dir": "res/nono_mario/mario6.jpg",
+            "alt": "Spalnica 2"
         },
         {
-            "dir": "res/nono_mario/nono_mario25.jpg",
-            "alt": "Kuhinja 1"
+            "dir": "res/nono_mario/mario7.jpg",
+            "alt": "Spalnica 2"
         },
         {
-            "dir": "res/nono_mario/nono_mario27.jpg",
-            "alt": "Kot v Kuhinji"
+            "dir": "res/nono_mario/mario8.jpg",
+            "alt": "Spalnica 2"
         },
         {
-            "dir": "res/nono_mario/nono_mario28.jpg",
-            "alt": "Pogled Cez Okno"
+            "dir": "res/nono_mario/mario9.jpg",
+            "alt": "Spalnica 2"
         },
         {
-            "dir": "res/nono_mario/nono_mario30.jpg",
-            "alt": "Kuhinja 2"
+            "dir": "res/nono_mario/mario10.jpg",
+            "alt": "Spalnica 2"
         },
         {
-            "dir": "res/nono_mario/nono_mario32.jpg",
-            "alt": "Kuhinja 3"
+            "dir": "res/nono_mario/mario11.jpg",
+            "alt": "Spalnica 2"
         },
         {
-            "dir": "res/nono_mario/nono_mario34.jpg",
-            "alt": "Kuhinja 4"
+            "dir": "res/nono_mario/mario12.jpg",
+            "alt": "Spalnica 2"
         },
         {
-            "dir": "res/nono_mario/apartma23.jpg",
-            "alt": "Dnevna soba 1"
+            "dir": "res/nono_mario/mario13.jpg",
+            "alt": "Spalnica 2"
         },
         {
-            "dir": "res/nono_mario/apartma21.jpg",
-            "alt": "Dnevna soba 1"
+            "dir": "res/nono_mario/mario14.jpg",
+            "alt": "Spalnica 2"
         },
         {
-            "dir": "res/nono_mario/apartma22.jpg",
-            "alt": "Dnevna soba 1"
+            "dir": "res/nono_mario/mario15.jpg",
+            "alt": "Spalnica 2"
         },
         {
-            "dir": "res/nono_mario/apartma24.jpg",
-            "alt": "Dnevna soba 1"
+            "dir": "res/nono_mario/mario16.jpg",
+            "alt": "Spalnica 2"
         },
         {
-            "dir": "res/nono_mario/apartma25.jpg",
-            "alt": "Dnevna soba 1"
+            "dir": "res/nono_mario/mario17.jpg",
+            "alt": "Spalnica 2"
+        },
+        {
+            "dir": "res/nono_mario/mario18.jpg",
+            "alt": "Spalnica 2"
+        },
+        {
+            "dir": "res/nono_mario/mario19.jpg",
+            "alt": "Spalnica 2"
         }
     ],
     "marin": [
+        {
+            "dir": "res/marin/marin1.jpg",
+            "alt": "Spalnica 1"
+        },{
+            "dir": "res/marin/marin2.jpg",
+            "alt": "Spalnica 1"
+        },
         {
             "dir": "res/marin/marin3.jpg",
             "alt": "Spalnica 1"
         },
         {
             "dir": "res/marin/marin4.jpg",
+            "alt": "Spalnica 2"
+        },
+        {
+            "dir": "res/marin/marin5.jpg",
             "alt": "Spalnica 2"
         },
         {
@@ -121,8 +140,20 @@
             "alt": "Spalnica 5"
         },
         {
+            "dir": "res/marin/marin10.jpg",
+            "alt": "Spalnica 2"
+        },
+        {
             "dir": "res/marin/marin11.jpg",
             "alt": "Hodnik 1"
+        },
+        {
+            "dir": "res/marin/marin12.jpg",
+            "alt": "Spalnica 2"
+        },
+        {
+            "dir": "res/marin/marin13.jpg",
+            "alt": "Spalnica 2"
         },
         {
             "dir": "res/marin/marin14.jpg",
@@ -149,60 +180,20 @@
             "alt": "Hodnik 2"
         },
         {
+            "dir": "res/marin/marin20.jpg",
+            "alt": "Spalnica 2"
+        },
+        {
             "dir": "res/marin/marin21.jpg",
             "alt": "Dneva Soba 1"
         },
         {
+            "dir": "res/marin/marin22.jpg",
+            "alt": "Spalnica 2"
+        },
+        {
             "dir": "res/marin/marin23.jpg",
             "alt": "Dnevna Soba 2"
-        },
-        {
-            "dir": "res/marin/marin24.jpg",
-            "alt": "Dnevna Soba 3"
-        },
-        {
-            "dir": "res/marin/marin26.jpg",
-            "alt": "Kuhinja 1"
-        },
-        {
-            "dir": "res/marin/marin28.jpg",
-            "alt": "Kuhinja 2"
-        },
-        {
-            "dir": "res/marin/marin29.jpg",
-            "alt": "Kuhinja 3"
-        },
-        {
-            "dir": "res/marin/marin31.jpg",
-            "alt": "Kuhinja 4"
-        },
-        {
-            "dir": "res/marin/marin34.jpg",
-            "alt": "Dnevna Soba 4"
-        },
-        {
-            "dir": "res/marin/apartma4.jpg",
-            "alt": "Spalnica 1"
-        },
-        {
-            "dir": "res/marin/apartma3.jpg",
-            "alt": "Spalnica 1"
-        },
-        {
-            "dir": "res/marin/apartma6.jpg",
-            "alt": "Spalnica 1"
-        },
-        {
-            "dir": "res/marin/apartma7.jpg",
-            "alt": "Spalnica 1"
-        },
-        {
-            "dir": "res/marin/apartma8.jpg",
-            "alt": "Spalnica 1"
-        },
-        {
-            "dir": "res/marin/apartma9.jpg",
-            "alt": "Spalnica 1"
         }
     ],
     "about_piran": [
