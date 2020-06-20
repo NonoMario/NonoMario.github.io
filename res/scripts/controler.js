@@ -6,13 +6,13 @@ setup();
 
 function setup() {
     setupOnClickBehaviour();
-    $.get("https://ipinfo.io", function(response) {
-        if (response.country == "SI"){
-            $('#sloveninan-lang').click()
-        } else {
-            $('#english-lang').click()
-        }}, "jsonp");    
-    //$('#english-lang').click();
+    //$.get("https://ipinfo.io", function(response) {
+    //    if (response.country == "SI"){
+    //        $('#sloveninan-lang').click()
+    //    } else {
+    //        $('#english-lang').click()
+    //    }}, "jsonp");    
+    $('#english-lang').click();
     setupCarousels();
 }
 
